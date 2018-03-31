@@ -1,2 +1,2 @@
 # Lua-Wrapper
-A Lua wrapper/binding library for C++
+A single-file header-only Lua wrapper/binding library for C++
